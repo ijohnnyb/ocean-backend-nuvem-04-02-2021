@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const { MongoClient, ObjectId } = require('mongodb');
 
 (async () => {
-    const url = 'mongodb+srv://admin:MVhyXlPJWaD2Cfbq@cluster0.7fu0x.mongodb.net/ocean_db?retryWrites=true&w=majority';
+    const url = 'mongodb+srv://admin:n4xUzDnzwtF2PAXc@cluster0.yiu6d.mongodb.net/ocean_db?retryWrites=true&w=majority';
 
     const dbName = 'ocean_db';
 
